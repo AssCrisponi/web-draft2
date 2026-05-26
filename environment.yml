@@ -1,0 +1,12 @@
+name: sdc_website
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.12.*
+  - mamba
+  - pip  # pip must be mentioned explicitly
+  - make
+  - pip:
+    - mkdocs-material
+    - mkdocs-git-revision-date-plugin

@@ -1,0 +1,5 @@
+# MkDocs documentation
+site*/
+.cache
+
+.idea

@@ -1,0 +1,65 @@
+site_name: Associazione Sindrome di Crisponi e Malattie Rare ODV
+site_url: https://www.sindromedicrisponi.it
+theme:
+  name: material
+  palette:
+    primary: deep orange
+  logo: assets/images/logo_scontornato.png
+  language: it
+  features:
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    # - content.code.select
+    # - content.footnote.tooltips
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.instant.prefetch
+    # - navigation.instant.progress
+    # - navigation.prune
+#    - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    # - toc.integrate
+
+plugins:
+  - blog:
+      blog_dir: blog
+      categories_toc: true
+      blog_toc: true
+  - meta
+  - search
+  - tags
+#  - git-revision-date
+
+nav:
+  - 'Home':
+    - 'Benvenuti': index.md
+    - 'La Sindrome':
+      - la_sindrome.md
+      - pubblicazioni_scientifiche.md
+    - '5x1000': 5x1000.md
+  - Blog:
+      - blog/index.md
+
+copyright: © Associazione Sindrome di Crisponi e Malattie Rare ODV
+
+extra:
+  social:
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/sindromedicrisponi
+
+extra_css:
+  - assets/css/manutenzione.css
