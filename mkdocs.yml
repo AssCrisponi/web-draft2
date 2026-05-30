@@ -5,6 +5,7 @@ theme:
   palette:
     primary: deep orange
   logo: assets/images/logo_scontornato.png
+  favicon: images/favicon.ico
   language: it
   features:
     - content.action.edit
