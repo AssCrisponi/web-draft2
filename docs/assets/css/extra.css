@@ -1,0 +1,36 @@
+.logo-img {
+  --logo-height: 80px; /* Adjust as needed */
+}
+
+.md-header__title {
+  font-size: 1.4rem;
+}
+
+.md-grids {
+  font-size: 0.7rem;
+  height: 10px;
+  padding-top: 0;
+  margin: 0 auto;
+  align-content: baseline;
+}
+
+.md-header {
+  background-image: url("http://127.0.0.1:8000/assets/images/header.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+/* Resize tab height */
+.md-tabs {
+  height: var(--tabs-height, 30px); /* Default height: 50px */
+}
+
+.md-tabs__link {
+  height: 100%; /* Ensure the link fills the tab height */
+  line-height: var(--tabs-height, 0px); /* Vertically center the text */
+  padding: 0 5px; /* Adjust padding as needed */
+  font-size: 0.7rem;
+  color: lightcyan;
+}

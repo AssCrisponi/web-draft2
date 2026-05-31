@@ -1,11 +1,17 @@
 site_name: Associazione Sindrome di Crisponi e Malattie Rare ODV
 site_url: https://www.sindromedicrisponi.it
+
 theme:
   name: material
+  custom_dir: overrides
+  sidebar: true
   palette:
-    primary: deep orange
+    primary: black
+    accent: white
   logo: assets/images/logo_scontornato.png
   favicon: images/favicon.ico
+  icon:
+    repo: fontawesome/brands/git-alt
   language: it
   features:
     - content.action.edit
@@ -14,26 +20,27 @@ theme:
     - content.code.copy
     # - content.code.select
     # - content.footnote.tooltips
-    # - content.tabs.link
+    - content.tabs.link
     - content.tooltips
     # - header.autohide
     - navigation.expand
     - navigation.footer
     - navigation.indexes
-    # - navigation.instant
+    - navigation.instant
     # - navigation.instant.prefetch
     # - navigation.instant.progress
     # - navigation.prune
-#    - navigation.sections
+    - navigation.sections
     - navigation.tabs
-    # - navigation.tabs.sticky
+#    - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
+    - navigation.path
     - search.highlight
     - search.share
     - search.suggest
     - toc.follow
-    # - toc.integrate
+#    - toc.integrate
 
 plugins:
   - blog:
@@ -43,15 +50,16 @@ plugins:
   - meta
   - search
   - tags
-#  - git-revision-date
+
 
 nav:
-  - 'Home':
-    - 'Benvenuti': index.md
-    - 'La Sindrome':
-      - la_sindrome.md
-      - pubblicazioni_scientifiche.md
-    - '5x1000': 5x1000.md
+  - Home: index.md
+  - La sindrome:
+    - La sindrome: la_sindrome.md
+    - Pubblicazioni Scientifiche: pubblicazioni_scientifiche.md
+  - L'associazione:
+      - Chi siamo: chi_siamo.md
+      - 5x1000: 5x1000.md
   - Blog:
       - blog/index.md
 
@@ -64,3 +72,4 @@ extra:
 
 extra_css:
   - assets/css/manutenzione.css
+  - assets/css/extra.css
