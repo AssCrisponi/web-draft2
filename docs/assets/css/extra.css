@@ -15,7 +15,7 @@
 }
 
 .md-header {
-  background-image: url("/assets/images/header.png");
+  background-image: url('https://www.sindromedicrisponi.it/site/assets/images/header.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
