@@ -39,3 +39,23 @@
 
 </div>
 
+<div class="contact">
+      <h3>Contatto Emergenze</h3>
+
+      <p>
+        <strong>Email:</strong>
+        <a href="mailto:presidente@sindromedicrisponi.it">
+          presidente@sindromedicrisponi.it
+        </a>
+      </p>
+
+      <p>
+        <strong>Telefono:</strong>
+        0783 463535
+      </p>
+
+      <p>
+        <strong>Cellulare:</strong>
+        393 9601620
+      </p>
+    </div>
