@@ -15,7 +15,7 @@
 }
 
 .md-header {
-  background-image: url("http://127.0.0.1:8000/assets/images/header.png");
+  background-image: url("/assets/images/header.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
