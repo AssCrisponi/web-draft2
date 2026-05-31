@@ -13,7 +13,7 @@ Relazione del Dott.G.Crisponi aggiornata ad Ottobre 2005
 # La Sindrome di Crisponi
 
 
-La Sindrome di Crisponi è è originata dalla mutazione del Crlf1 gene che mappa sul cromosoma 19. Descritta nel 1996 in 17 bambini, 8 maschi e 9 femmine provenienti da 12 famiglie della Sardegna meridionale. Dopo tale segnalazione sono nati in Sardegna altri tre bambini (2 femmine e 1 maschio) per un totale di 14 famiglie. Recentemente sono stati segnalati in letteratura altri due bambini affetti, uno italiano ed un’olandese di origine portoghese. Sono stati segnalati ma non ancora divulgati nella letteratura medica altri bambini affetti dalla sindrome in due famiglie di origine turca in Germania, una bambina in Argentina, un bambino in Arabia Saudita, altri probabili casi dalla Grecia e dall’Italia.
+La Sindrome di Crisponi è è originata dalla mutazione del gene _CRLF1_ che mappa sul cromosoma 19. Descritta nel 1996 in 17 bambini, 8 maschi e 9 femmine provenienti da 12 famiglie della Sardegna meridionale. Dopo tale segnalazione sono nati in Sardegna altri tre bambini (2 femmine e 1 maschio) per un totale di 14 famiglie. Recentemente sono stati segnalati in letteratura altri due bambini affetti, uno italiano ed un’olandese di origine portoghese. Sono stati segnalati ma non ancora divulgati nella letteratura medica altri bambini affetti dalla sindrome in due famiglie di origine turca in Germania, una bambina in Argentina, un bambino in Arabia Saudita, altri probabili casi dalla Grecia e dall’Italia.
 
 ![logo](./assets/images/logo_scontornato.png){: style="display: block; margin: 0 auto;"}
 
